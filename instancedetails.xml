@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<data>
+	<instance name="SHORE">
+		<sourcedir>Directory</sourcedir>
+		<logfilter>File filter, defines which files to copy</logfilter>
+	</instance>
+</data>
